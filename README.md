@@ -74,4 +74,3 @@ The implementation focuses on:
 
 ---
 
-## 📂 Project Structure
